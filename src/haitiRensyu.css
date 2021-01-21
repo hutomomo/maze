@@ -1,0 +1,7 @@
+.upperPane{
+	-fx-border-color: #ccc;
+	-fx-border-width: 10px;
+}
+.lowerPane{
+	-fx-background-color: #c00;
+}

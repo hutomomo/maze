@@ -1,0 +1,8 @@
+.text-field{
+	-fx-pref-column-count:5;  /* 幅 */
+}
+.gridpane {
+	-fx-vgap: 15;  /* 行間隔 */
+	-fx-hgap: 15;  /* 列間隔 */
+	-fx-padding: 15;  /* 余白 */
+}

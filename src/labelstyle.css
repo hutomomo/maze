@@ -1,0 +1,4 @@
+.label{
+	-fx-border-color: grey;   /* 境界線色 */
+	-fx-border-width: 1;   /* 太さ */
+}

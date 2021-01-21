@@ -1,0 +1,9 @@
+.combobox{
+	-fx-pref-width: 170;
+}
+
+.vbox{
+	-fx-spacing: 15;
+	-fx-padding: 15;
+	-fx-alignment: center;
+}
